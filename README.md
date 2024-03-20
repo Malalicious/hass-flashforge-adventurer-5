@@ -1,6 +1,4 @@
 # FlashForge Adventurer 5M (Pro) for Home Assistant
-[![Paypal-shield]](https://www.paypal.com/donate/?business=UZ6F4WY9P5MFY&no_recurring=0&item_name=Please+donate+if+you+like+my+work.&currency_code=AUD)
-
 A fork of Adventurer 4 integration adjusted for the FlashForge Adventurer 5M (Pro) printer.
 
 It adds three entities:
